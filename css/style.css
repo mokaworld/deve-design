@@ -1,0 +1,318 @@
+/* START GLOBAL RULES */ 
+
+
+body{
+
+    background-color: #f9f9f9;
+     font-family: "Cairo" ;
+
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+.navbar-brand span:last-child:hover { 
+
+    color: green;
+    
+
+}
+
+
+
+
+.btn {
+
+
+        font-size: 12px;
+        margin-top: 8px;
+        margin-right: 5%;
+
+}
+
+.btn a {
+
+
+ text-decoration: none;
+ color: #fff;
+}
+
+
+/* END NAVBAR */
+
+/* START CAROUSEL */
+
+.carousel {
+    
+    margin-top: 51px;
+ 
+}
+
+
+/* END CAROUSEL */
+
+
+/* START OUR COMPANY */
+
+.our-comp {
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.our-comp h1 {
+    
+    font-family: "cairo";
+    font-size: 35px;
+    
+}
+
+.our-comp p{
+    
+    font-size: 20px;
+    
+    
+}
+
+/* END OUR COMPANY */
+
+
+/*  START WEB DESIGN SECTION */
+
+.web-design{
+    
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.web-design h2 {
+    
+    font-family: "cairo";
+}
+
+.web-design img{
+    
+    margin-top: 20px;
+}
+
+.web-design p {
+    
+    font-size: 20px;
+}
+
+/*  END WEB DESIGN SECTION */ 
+
+
+/* START PROGRAMER SECTION */
+
+
+.pro{
+    
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+
+.pro h2 {
+    
+    font-family: "cairo";
+    font-size: 30px;
+}
+
+.pro p{
+    
+    font-size: 20px;
+}
+
+.pro img {
+    
+    margin-top: 30px;
+}
+/* END PROGRAMER SECTION */
+
+.company{
+    
+     padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+.company h2 {
+    
+    font-family: "cairo";
+    font-size: 30px;
+    
+}
+
+
+.company p {
+    
+    font-size: 20px;
+    
+}
+
+.company img {
+    
+    max-width: 95%;
+    margin-top: 26px;
+    
+}
+
+.seo{
+    
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.seo h2{
+    
+    font-family: "cairo";
+    font-size: 30px;
+}
+
+.seo p{
+    
+      font-size: 20px;
+}
+
+.seo img{
+    margin-top: 30px;
+    
+    
+}
+
+.sponser{
+    
+    padding: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #eee;
+    
+    
+}
+
+.sponser img{
+    
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    
+    
+}
+
+
+
+/* START CONTACT */
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    background: none;
+    position: absolute;
+    right: 20%;
+    top: 150px;
+    border-color: white;
+    width: 125px;
+    height: 55px;
+}
+    /* END CONTACT */
+    
+
+.gps{
+    
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}  
+    
+
+.gps .post .send{
+    
+    position: relative;
+    right: 44%;
+
+    
+}
+    
+    
+    
+.gps .info{
+    
+ margin-top: 15px;
+    
+}
+ 
+
+.gps .social{
+    
+ margin-top: 15px;
+
+    
+}
+
+.copyright{
+    
+    padding: 10px;
+    font-size: 16px;
+}
+     
+svg:not(:root).svg-inline--fa{
+    
+    margin-left: 10px;
+}
+    
+    
+ 
+ /* END MEDIA */
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

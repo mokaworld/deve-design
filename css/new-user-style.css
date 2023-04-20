@@ -1,0 +1,104 @@
+body{
+
+    background-color: #f9f9f9;
+     font-family: "Cairo" ;
+
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+.navbar-brand span:last-child:hover { 
+
+    color: green;
+    
+
+}
+
+
+.btn {
+
+
+    font-size: 12px;
+            margin-top: 8px;
+        margin-right: 5%;
+
+}
+
+.btn a {
+
+
+ text-decoration: none;
+ color: #fff;
+}
+
+/* END NAVBAR */
+
+/* START CAROUSEL */
+
+.carousel {
+    
+    margin-top: 51px;
+ 
+}
+
+
+/* END CAROUSEL */
+
+
+.new-acc{
+
+   margin-top: 70px;
+
+}
+
+
+.new-acc h2{
+
+  font-family: "cairo";
+  margin-bottom: 20px;
+}
+
+.new-acc img{
+
+margin-top: 73px;
+}
+.form-control{
+
+
+	margin-bottom: 15px;
+	margin-top: 15px;
+	padding: 20px;
+}
+
+.new-acc .gander input{
+
+margin-left: 10px;
+
+}
+
+.btn-success{
+
+	margin-top: 20px;
+}
+
+.copyright{
+    
+    padding: 10px;
+    font-size: 16px;
+}
+    

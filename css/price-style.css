@@ -1,0 +1,211 @@
+body{
+
+    background-color: #F9F9F9;
+    font-family: "Cairo"  ;
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+.navbar-brand span:last-child:hover { 
+
+    color: green;
+    
+
+}
+
+.btn {
+
+
+    font-size: 12px;
+            margin-top: 8px;
+        margin-right: 5%;
+
+}
+
+.btn a {
+
+
+ text-decoration: none;
+ color: #fff;
+}
+
+/* END NAVBAR */
+
+/* START CAROUSEL */
+
+.carousel {
+    
+    margin-top: 51px;
+ 
+}
+
+
+/* END CAROUSEL */
+
+
+
+/* start setion price table*/
+
+
+.pricetable
+{
+	background: #f9f9f9;
+	padding-top: 20px;
+	padding-bottom: 20px;
+    margin-top: 30px;
+}
+.pricetable h1
+{
+	
+	margin-bottom: 40px;
+       font-family: "Cairo"  ;
+	
+}
+
+.pricetable .pricebox
+{
+	background: white;
+	padding: 5px;
+	border: 1px solid #ddd;
+	margin-bottom: 15px;
+	
+}
+
+.pricetable .pricebox h2
+{
+	margin: 5px 0 15px;
+    font-family: "Cairo"  ;
+}
+
+.pricetable .pricebox p
+{
+	font-size: 35px;
+	font-weight: bold;
+	color: #666;
+	width: 100px;
+	height: 100px;
+	background: #f3f3f3;
+	border-radius: 50%;
+	line-height: 100px;
+	-webkit-transition-duration 0.7s;
+	-moz-transition-duration 0.7s;
+	-o-transition-duration 0.7s;
+	transition-duration 0.7s;
+	border: 2px solid #fff; 
+}
+
+.pricetable .pricebox:hover p
+
+{
+	transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+	-moz-transform:scale(1.1,1.1);
+	-o-transform:scale(1.1,1.1);
+	border: 2px solid #dfdfdf;
+		
+}
+.pricetable .pricebox ul
+{
+	line-height: 250%;
+	font-size: 18px;
+}
+.pricetable .pricebox a
+{
+	margin-bottom: 5px;
+}
+
+
+.pricetable2
+{
+	background: #f9f9f9;
+	padding-top: 20px;
+	padding-bottom: 20px;
+    margin-top: 0;
+}
+
+
+.pricetable2 h1
+{
+	
+	margin-bottom: 40px;
+	
+}
+
+.pricetable2 .pricebox
+{
+	background: white;
+	padding: 5px;
+	border: 1px solid #ddd;
+	margin-bottom: 15px;
+	
+}
+
+.pricetable2 .pricebox h2
+{
+	margin: 5px 0 15px;
+       font-family: "Cairo"  ;
+}
+
+.pricetable2 .pricebox p
+{
+	font-size: 35px;
+	font-weight: bold;
+	color: #666;
+	width: 100px;
+	height: 100px;
+	background: #f3f3f3;
+	border-radius: 50%;
+	line-height: 100px;
+	-webkit-transition-duration 0.7s;
+	-moz-transition-duration 0.7s;
+	-o-transition-duration 0.7s;
+	transition-duration 0.7s;
+	border: 2px solid #fff; 
+}
+
+.pricetable2 .pricebox:hover p
+
+{
+	transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+	-moz-transform:scale(1.1,1.1);
+	-o-transform:scale(1.1,1.1);
+	border: 2px solid #dfdfdf;
+		
+}
+.pricetable2 .pricebox ul
+{
+	line-height: 250%;
+	font-size: 18px;
+}
+.pricetable2 .pricebox a
+{
+	margin-bottom: 5px;
+}
+
+/* end setion price table*/
+
+
+.copyright{
+    
+        padding: 10px;
+    font-size: 16px;
+}
+     
+
+
+

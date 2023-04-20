@@ -1,0 +1,105 @@
+/* START GLOBAL RULES */ 
+
+
+body{
+
+    background-color: #E9EBEE;
+     font-family: "Cairo" ;
+
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+.navbar-brand span:last-child:hover { 
+
+    color: green;
+    
+
+}
+
+
+
+
+.btn {
+
+
+        font-size: 12px;
+        margin-top: 8px;
+        margin-right: 5%;
+
+}
+
+.btn a {
+
+
+ text-decoration: none;
+ color: #fff;
+}
+
+
+/* END NAVBAR */
+
+/* START CAROUSEL */
+
+.carousel {
+    
+    margin-top: 51px;
+ 
+}
+
+
+/* END CAROUSEL */
+
+
+.forget{
+
+background-color: #fff;
+margin-top: 200px;
+max-height: 280px;
+border: 1px solid #ccc;
+border-radius: 2px;
+
+	
+}
+
+.forget h3{
+
+
+	font-family: "Cairo";
+	margin-right: 15px;
+}
+
+.btn{
+
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+.form-control{
+
+
+	padding: 20px;
+    margin-right: 25%;
+    width: 50%;
+}
+
+.copyright{
+    
+    padding: 10px;
+    font-size: 16px;
+}

@@ -1,0 +1,188 @@
+/* START GLOBAL RULES */ 
+
+
+body{
+
+    font-family: 'Cairo', sans-serif;
+    background: #f9f9f9;
+
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+/* END NAVBAR */
+
+/* START FORM */
+
+.title{
+    
+    margin-top: 70px;
+     font-family: 'Cairo'
+
+}
+
+.title h1{
+    
+
+     font-family: 'Cairo'
+
+}
+
+.form-control{
+    
+    background: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+
+textarea.form-control{
+    
+    height: 300px;
+}
+/* END FORM */ 
+
+
+.copyright{
+    
+        padding: 10px;
+    font-size: 16px;
+}
+     
+    
+    
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+   .navbar-nav>li>a {
+    text-align: center;
+   }  
+
+
+  .title h1{
+
+
+  font-size: 20px;
+
+
+  }
+
+label{
+
+    font-size: 13px;
+}
+
+
+.form-control{
+
+    max-width: 80%;
+}
+
+textarea.form-control {
+
+    height: 150px;
+}
+
+
+
+
+
+}  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ .navbar-nav>li>a {
+    text-align: center;
+   }  
+
+
+  .title h1{
+
+
+  font-size: 20px;
+
+
+  }
+
+label{
+
+    font-size: 13px;
+}
+
+
+.form-control{
+
+    max-width: 80%;
+}
+
+textarea.form-control {
+
+    height: 150px;
+}
+
+
+
+
+
+}
+    
+    

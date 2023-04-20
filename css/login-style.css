@@ -1,0 +1,190 @@
+body{
+            
+
+        background-color: #f9f9f9;
+        font-family: "Cairo" ;
+        background-image:url( ../img/ppp.jpg);
+        background-position: center;
+        background-size: cover;
+
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+.navbar-brand span:last-child:hover { 
+
+    color: green;
+    
+
+}
+
+
+.btn {
+
+
+    font-size: 12px;
+            margin-top: 8px;
+        margin-right: 5%;
+
+}
+
+.btn a {
+
+
+ text-decoration: none;
+ color: #fff;
+}
+
+/* END NAVBAR */  
+
+
+.form{
+
+
+    margin-top: 160px;
+    padding: 10px;
+    width: 30%;
+    margin-right: 37%;
+
+
+}
+
+.login-header{
+
+
+    background: #353535;
+    color: #fff;
+    padding: 15px;
+    font-family: "cairo";
+    margin: 0;
+
+
+}
+
+form{
+
+	background: #ebebeb;
+	padding: 15px;
+}
+
+form p{
+
+
+   padding: 10px;
+   margin: 0;
+
+}
+
+form input{
+
+	display: block;
+	border-style: solid;
+	border-width: 1px;
+	box-sizing: border-box;
+}
+
+.forget{
+
+	margin-top: 15px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+
+}
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+  
+ .click{
+
+        font-size: 12px;
+    margin-top: 8px;
+    margin-right: 37%;
+    margin-bottom: 13px;
+ }
+
+
+.form h2{
+
+           font-size: 13px;
+           width: 230%;
+           margin-right: -60px;
+
+
+}
+
+.form-group {
+
+
+           font-size: 13px;
+           width: 230%;
+           margin-right: -60px;
+
+
+}
+
+label{
+
+    font-size: 13px;
+}
+
+.form-control{
+
+    font-size: 13px;
+}
+
+
+.btn a, a{
+
+
+        font-size: 11px;
+}
+  
+}
+
+
+
+
+
+
+

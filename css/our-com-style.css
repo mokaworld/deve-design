@@ -1,0 +1,115 @@
+body{
+
+    
+    background-color: #f9f9f9;
+    font-family: "Cairo"  ;
+
+}
+
+/* END GLOBAL RULES */ 
+
+/* START NAVBAR */
+
+
+.navbar-nav li:hover{
+    
+    background-color: red;
+    
+}
+
+.navbar-brand span:first-child { 
+
+    color: red;
+
+}
+
+.btn {
+
+
+    font-size: 12px;
+            margin-top: 8px;
+        margin-right: 5%;
+
+}
+
+.btn a {
+
+
+ text-decoration: none;
+ color: #fff;
+}
+
+
+/* END NAVBAR */
+
+.title{
+    
+    margin-top: 75px;
+      font-family: "Cairo"
+}
+
+.title h1{
+    
+    font-family: "Cairo";
+    margin-bottom: 20px;
+    
+    
+}
+
+
+.details{
+    
+         margin-top: 50px;
+        margin-bottom: 50px;
+}
+
+.details h2,h4{
+    
+    font-family: "Cairo";
+    display: table;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 18px;
+    
+}
+
+.pic{
+    
+        margin-top: 50px;
+        margin-bottom: 50px;
+        
+}
+
+
+.details h4:hover{
+    
+    background: red;
+    color: #fff;
+    
+    
+}
+
+.int{
+    
+    margin-top: 20px;
+}
+
+.copyright{
+    
+        padding: 10px;
+    font-size: 16px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
